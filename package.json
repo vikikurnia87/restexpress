@@ -1,0 +1,28 @@
+{
+  "name": "restexpress",
+  "version": "1.0.0",
+  "description": "rest api express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikikurnia87/restexpress.git"
+  },
+  "keywords": [
+    "APi"
+  ],
+  "author": "Viki Kurnia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikikurnia87/restexpress/issues"
+  },
+  "homepage": "https://github.com/vikikurnia87/restexpress#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "morgan": "^1.10.0"
+  }
+}
